@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kirillex22
-- 👀 I’m interested in С# delelopment
+- 👀 I’m interested in backend development
 - 🌱 I’m currently learning C#, Python, C++ (a little bit)
 - 💞️ I’m looking to collaborate on C#
 <!---
